@@ -1,2 +1,4 @@
 # endTB_configurations
-Varoius configurations for implementation_config
+Various configurations for implementation_config
+The new configurations are found in:
+* app/clinical/formconditions.js
