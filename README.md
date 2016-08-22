@@ -1,4 +1,4 @@
-# endTB_configurations
+# endTB configurations
 _________________________
 Various configurations for implementation_config
 The new configurations are found in:
